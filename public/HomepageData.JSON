@@ -1,0 +1,30 @@
+[
+    {
+        "img":"https://image.shutterstock.com/image-photo/language-education-conceptlearn-english-back-260nw-1190218975.jpg",
+      "course": "Spoken English",
+      "code": 1001,
+      "fee": 999,
+      "about": "Our courses have been specifically designed around the unique way children learn and are taught by experienced teachers who are passionate about the English language and experts in teaching children.\r\n"
+    },
+    {
+        "img":"https://www.kidzwings.com/wp-content/uploads/2021/05/Simple-Coding-Learning-Tips-for-Kids.jpg",
+      "course": "Programming for kids",
+      "code": 1003,
+      "fee": 1499,
+      "about": "Our courses have been specifically designed around the unique way children learn and are taught by experienced teachers who are passionate about the English language and experts in teaching children.\r\n"
+    },
+    {
+        "img":"https://cdn.planetspark.in/editor_assets/pictures/3393/content.jpg ",
+      "course": "Public Speaking",
+      "code": 1009,
+      "fee": 999,
+      "about": "Our courses have been specifically designed around the unique way children learn and are taught by experienced teachers who are passionate about the English language and experts in teaching children.\r\n"
+    },
+    {
+        "img":"https://i.ytimg.com/vi/SOxHr4Ie-Cw/maxresdefault.jpg ",
+      "course": "Learn Quran",
+      "code": 1010,
+      "fee": 490,
+      "about": "Our courses have been specifically designed around the unique way children learn and are taught by experienced teachers who are passionate about the English language and experts in teaching children.\r\n"
+    }
+  ]
